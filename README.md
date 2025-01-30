@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Ugo Chiori. I live in Lagos, Nigeria.
-- I love Jesus Christ, and I love coffee.
-- My interests range from baking, bowling, working out...amongst other things.
-- I started learning to be a front end developer in April, 2022, and since then, I have had to immerse myself in different tasks and projects.
-- I’m constantly trying to grow, and learn new things. I am currently improving my skills in HTML, CSS, Javascript, OpenSource and ReactJS.
-- 📫 How to reach me ...ugochiori@gmail.com
+---
+
+### 👋 Hi, I’m Ugo Chiori!  
+I’m a **software developer** based in **Lagos, Nigeria** with a passion for building great user experiences. My journey into tech began in **April 2022** when I started learning **front-end development**, and since then, I’ve been all in—taking on diverse projects, solving real-world problems, and continuously expanding my skill set.  
+
+### 🌟 What I Do  
+- Front-end development with **React, JavaScript, HTML, and CSS**  
+- Exploring **Open Source** contributions  
+- Learning new technologies and best practices  
+
+### 🎯 Beyond Code  
+Before transitioning into tech, I spent **15 years as a baker**, perfecting recipes and delivering excellence—skills that translate well into software development: precision, creativity, and problem-solving. Outside of coding, you’ll find me **bowling, working out, or enjoying a great cup of coffee**.  
+
+### 📫 Let’s Connect  
+Feel free to reach out at **ugochiori@gmail.com**—I’m always open to interesting conversations and collaborations!  
+
+---
+
+
 
 <!---
 UgoChiori/UgoChiori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
