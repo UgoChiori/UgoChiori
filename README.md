@@ -9,7 +9,7 @@ I’m a **software developer** based in **Lagos, Nigeria** with a passion for bu
 - Learning new technologies and best practices  
 
 ### 🎯 Beyond Code  
-Before transitioning into tech, I spent **15 years as a baker**, perfecting recipes and delivering excellence—skills that translate well into software development: precision, creativity, and problem-solving. Outside of coding, you’ll find me **bowling, working out, or enjoying a great cup of coffee**.  
+Before transitioning into tech, I spent **15 years as a baker**, perfecting recipes and delivering excellence—skills that translate well into software development: precision, creativity, and problem-solving. Outside of coding, you’ll find me **bowling, working out, or enjoying a cup of coffee while looking up expensive houses in different timezones with my ₦2,000 in my account**.  
 
 ### 📫 Let’s Connect  
 Feel free to reach out at **ugochiori@gmail.com**—I’m always open to interesting conversations and collaborations!  
